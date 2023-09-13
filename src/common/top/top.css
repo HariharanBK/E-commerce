@@ -1,0 +1,44 @@
+/* .topCat {
+    position: relative;
+}
+.topCat .box {
+    margin: 0 20px;
+}
+
+.topCat .nametop  .tleft {
+    left: 0;
+}
+ */
+.topCat .nametop span {
+    background-color: rgb(18, 221, 218);
+    color: black;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 50px;
+    margin-right: -15px;
+    margin-bottom: 20px;
+    /* position:absolute; */
+    top:0;
+}
+.topCat img {
+    width: 100%;
+    height: 100%;
+}
+
+/* .topCat .nametop {
+    position: relative;
+    width: 100%;
+}
+
+.topCat .nametop  .tleft {
+    background-color: aliceblue;
+    color: black;
+    position: absolute;
+    right: 0;
+} */
+
+
+/* .topCat .box {
+    margin: 0 20px;
+} */
+
